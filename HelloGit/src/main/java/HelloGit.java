@@ -4,6 +4,7 @@ public class HelloGit {
         System.out.println("Hello Git!");
 
         System.out.println("在线修改!");
+        System.out.println("克隆者添加！");
 
 
 
